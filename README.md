@@ -68,7 +68,7 @@ mini_sparkify_event_data.json - Data file containing the streaming music provide
 
 1. The most important factor in predicting a user churn is actually the total amount of time a user has been with the app. The lesser this time the more possibility for the user to churn. Which is clearly seen in many organizations that they focus heavily on the users which are new so that they are satisfied with the service and do not churn.
 2. There are other factors in case of Sparkify which affect the Churn which are more amount of Thumbs Down given , Less Friends added and songs added to playlist, more advertisments being shown to users are some of the important ones.
-3. Random Forest Classifer is best able to predict the churn.
+3. Random Forest Classifer is best model to predict the churn.
 
 
 
