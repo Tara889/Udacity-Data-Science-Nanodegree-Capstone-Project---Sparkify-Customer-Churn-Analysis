@@ -4,11 +4,17 @@
 
 Following are the moduels which have been used in the notebook and are necessary for running the notebook.
 
-Python 3.6.3
-Spark Version 2.4.3
-Pandas 0.23.3
-Matplotlib 2.1.0
-Seaborn 0.8.1
+Python 3.6
+
+NumPy
+
+Pandas
+
+scikit-learn
+
+matplotlib
+
+Pyspark
 
 
 ## Project Summary:
@@ -24,12 +30,15 @@ Random Forest Classifer is best able to predict the churn.
 The project contains the following tasks:
 
 1. Data Exploration
+
 Learn about the data, Load and clean the dataset, checking for invalid or missing data - for example, records without userids or sessionids.
 
 2. Define Churn and label data based on churn definition
+
 Determine the feature's which can be considered as churn to use as the label for your model (Example Cancell confirmation)
 
 3. Feature Engineering
+
 Once you've familiarized yourself with the data, build out the features you find promising to train your model on. To work with the full dataset, you can follow the following steps.
 
 Write a script to extract the necessary features from the smaller subset of data
@@ -38,11 +47,13 @@ Try your script on the full data set, debugging your script if necessary.
 
 
 4. Data transformation, data splitting and model training  
+
 Transform feature engineered data.
 Split data into training, validation and test data.
 Build a machine learning model to train using training data
 
 5. Evaluating on Test Set
+
 Try tesing using different Modules which helps in deciding on the best Model to be used.
 
 
