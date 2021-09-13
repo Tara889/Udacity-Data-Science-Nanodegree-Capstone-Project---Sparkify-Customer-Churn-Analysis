@@ -70,7 +70,7 @@ mini_sparkify_event_data.json - Data file containing the streaming music provide
 2. There are other factors in case of Sparkify which affect the Churn which are more amount of Thumbs Down given , Less Friends added and songs added to playlist, more advertisments being shown to users are some of the important ones.
 3. Random Forest Classifer is best model to predict the churn.
 
-## Acknowledgements:
+## References:
 
-
+https://medium.com/@nakshatra1988/sparkify-customer-churn-analysis-423a5c401a8f
 
